@@ -2,7 +2,7 @@
 
 ## Tools Installation
 
-#### <ins> All the instructions for installation of required tools can be found here: <\ins>
+#### <ins> All the instructions for installation of required tools can be found here: </ins>
 
 ### System Requirements
 
