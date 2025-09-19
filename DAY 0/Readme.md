@@ -37,4 +37,4 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-<img src="file:///home/nagendrakudva123/Pictures/Screenshots/Screenshot%20from%202025-09-19%2008-59-38.png" alt=" ALT TEXT"width="400"/>
+![alt text](images/Screenshot from 2025-09-19 08-59-38.png)
