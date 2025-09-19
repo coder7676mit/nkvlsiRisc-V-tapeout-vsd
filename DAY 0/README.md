@@ -37,4 +37,4 @@ $ git submodule update --init --recursive
 $ make 
 $ sudo make install
 ```
-![alt text](images/Screenshot from 2025-09-19 08-59-38.png)
+![Alt Text](images/yosys_installation_done.png)
