@@ -1,20 +1,6 @@
-# My First GitHub Project 🎉
+# India RISC-V Chip Tapeout Program VSD 2025
 
-Welcome to my first repository! 🚀  
-This project is a simple start to my GitHub journey. It’s mainly for learning, experimenting, and building cool stuff.  
+Welcome to my journey through the VSD-HDP program! Below are links to my day-wise progress and learnings.
 
----
 
-## 📌 Features
-- Beginner-friendly project setup  
-- Clear structure for practicing Git & GitHub  
-- Open for future improvements  
-
----
-
-## ⚡️ Getting Started
-
-### 1. Clone this repo
-```bash
-git clone https://github.com/<your-username>/<repo-name>.git
-
+|  DAY |--------------------------------------------------------------------------------------------|----------------------|
