@@ -7,4 +7,4 @@ _Welcome to my journey through the India Risc-V chip tapeout program 2025 by VSD
 
 | Day  | Topics Covered | Status |
 |---|---|---|
-| **Day 0** | [**Tools Installation**](DAY_0/README.md) | **✅ Completed** |
+| **Day 0** | [**Tools Installation**](DAY0/README.md) | **✅ Completed** |
