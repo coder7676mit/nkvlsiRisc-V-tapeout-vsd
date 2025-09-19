@@ -4,4 +4,4 @@ Welcome to my journey through the VSD-HDP program! Below are links to my day-wis
 
 
 | DAY | Daily Progress Links | Status |
-| --- | --- |---|
+| --- | ---------------------------- |---|
