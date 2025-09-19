@@ -1,8 +1,10 @@
 # India RISC-V Chip Tapeout Program VSD 2025
 
-_Welcome to my journey through the VSD-HDP program! Below are links to my day-wise progress and learnings._
+_Welcome to my journey through the India Risc-V chip tapeout program 2025 by VSD. I am sharing my day wise learnings here._
 
 
-| DAY | Daily Progress Links | Status |
-| :--- | :-------: |---: |
-| DAY 0 | [Tools Installation](url) | DONE |
+## 🔽 Day wise Links
+
+| Day  | Topics Covered | Status |
+|---|---|---|
+| **Day 0** | [**Tools Installation**](DAY 0/README.md) | **✅ Completed** |
